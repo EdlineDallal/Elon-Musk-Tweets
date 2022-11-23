@@ -7,5 +7,5 @@ My questions anaylsis of this study case were:
 2. In what months the tweets by Elon musk are higher comparison to other months across the year?
 3. In what day/days across the week the tweets by Elon musk are higher?
 
-Feel free to contact me for any clarifications 
+Feel free to contact me for clarifications 
 
